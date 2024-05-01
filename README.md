@@ -22,7 +22,8 @@ A terceira imagem descreve a Desk Manager como se fosse uma pessoa. A personalid
 
 ![Slide5](https://github.com/LuanLgn/Aula02/blob/main/Aula%202/Slide%205%20habilidoso%20e%20sociavel%202.PNG)
 
-Habilidoso: Comunica de forma simples e prática sobre ESM. Foca em ser entendido, gerando confiança. Sociável: Cultiva diálogo, demonstra interesse e personaliza interações para construir relacionamentos genuínos.
+Habilidoso: Comunica de forma simples e prática sobre ESM. Foca em ser entendido, gerando confiança. 
+Sociável: Cultiva diálogo, demonstra interesse e personaliza interações para construir relacionamentos genuínos.
 
 ---
 
